@@ -147,4 +147,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Saikumar**  
 Computer Vision Enthusiast  
-[![GitHub]([https://img.shields.io/badge/GitHub-yourusername-black?style=flat-square&logo=github)](https://github.com/yourusername](https://github.com/SaiiiKumarrr05))
+[![GitHub]([https://img.shields.io/badge/GitHub-yourusername-black?style=flat-square&logo=github)(https://github.com/SaiiiKumarrr05))
